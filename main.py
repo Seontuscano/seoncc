@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
-import pymysql
+
 import time
 
 class EmployeeSytsem:
